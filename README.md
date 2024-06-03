@@ -1,5 +1,5 @@
 # MySQL Access via JDBC
-CRUD(create,read,update,delete) operations in JDBC
+CRUD(create,read,update,delete) operations with Java Database Connectivity
 
 The select data method shows 200 actors data like this
 
