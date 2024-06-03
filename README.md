@@ -1,2 +1,2 @@
-# jdbcIntro
-CRUD operations in JDBC
+# JDBC usage
+CRUD(create,read,update,delete) operations in JDBC
