@@ -1,4 +1,4 @@
-# JDBC usage
+# MySQL Access via JDBC
 CRUD(create,read,update,delete) operations in JDBC
 
 The select data method shows 200 actors data like this
